@@ -1,0 +1,16 @@
+Black Box - probleme:
+
+1. Divizarea la un numar negativ rezulta in Eroare.
+2. Divizarea la 0 rezulta in Infinit.
+
+
+
+Unit test - rezultate:
+
+- Test passed for expression: 1 + 2
+- Test passed for expression: 5 - 3
+- Test passed for expression: 4 * 2
+- Test passed for expression: 10 / 2
+- Test passed for expression: 2 + 3 * 4
+- ERROR: Division by zero not handled correctly
+- ERROR: Invalid input not handled correctly
